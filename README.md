@@ -18,7 +18,7 @@ I’m a programming student focused on building solid backend and web fundamenta
 ---
 
 ### 🌐 Web Development
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" /><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>
 
 - HTML5 (semantic structure)
 - CSS3 (layout & styling)
@@ -27,7 +27,7 @@ I’m a programming student focused on building solid backend and web fundamenta
 ---
 
 ### 🌱 Git & GitHub
-<img src="https://cdn.simpleicons.org/git/F05032" height="25"/><img src="https://cdn.simpleicons.org/github/181717" height="25"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="25"/> <img src="https://cdn.simpleicons.org/github/181717" height="25"/>
 
 - Version control with Git
 - GitHub repositories & workflows
@@ -51,7 +51,7 @@ I aim to work as a **backend or full-stack developer**, focusing on **Python-bas
 ## 🚀 Projects
 
 ### 🗂️ Inventory Management System
-<img src="https://cdn.simpleicons.org/python/3776AB" height="20"/><img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/>
 
 **Console application built with Python and SQLite**
 
@@ -71,19 +71,14 @@ I aim to work as a **backend or full-stack developer**, focusing on **Python-bas
 ## 💻 Tech Stack
 
 ### Languages & Markup
-<img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30"/> <img src="https://cdn.simpleicons.org/html5/E34F26" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
 
 
 ### Databases
-<img src="https://cdn.simpleicons.org/sqlite/003B57" height="30"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="30"/>
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="30"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30"/>
 
 ### Tools
-<img src="https://cdn.simpleicons.org/git/F05032" height="30"/>
-<img src="https://cdn.simpleicons.org/github/181717" height="30"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="30"/> <img src="https://cdn.simpleicons.org/github/181717" height="30"/>
 
 ---
 
