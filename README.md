@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MartinSosa777/MartinSosa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# MartinSosa777
 # 💫 About Me:
 ## 📚 Currently Learning
 - Python (OOP, SQLite, error handling)
