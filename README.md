@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 # 💫 About Me
 I’m a programming student focused on building solid backend and web fundamentals, with an interest in clean code, databases, and scalable applications.
 
@@ -19,7 +18,7 @@ I’m a programming student focused on building solid backend and web fundamenta
 ---
 
 ### 🌐 Web Development
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/><img src="https://cdn.simpleicons.org/css3/1572B6" height="25"/><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" /><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>
 
 - HTML5 (semantic structure)
 - CSS3 (layout & styling)
