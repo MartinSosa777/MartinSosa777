@@ -74,7 +74,8 @@ I aim to work as a **backend or full-stack developer**, focusing on **Python-bas
 <img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30"/>
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="30"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+
 
 ### Databases
 <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30"/>
