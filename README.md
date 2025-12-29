@@ -1,13 +1,43 @@
 ## Hi there 👋
 
 # 💫 About Me:
+# 💫 About Me
+I’m a programming student focused on building solid backend and web fundamentals, with an interest in clean code, databases, and scalable applications.
+
+---
+
 ## 📚 Currently Learning
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />Python → OOP, SQLite, error handling
+### 🐍 Python
+<img src="https://cdn.simpleicons.org/python/3776AB" height="25"/>
 
-🌐 Web Development → HTML, CSS, basic JavaScript
+- Object-Oriented Programming (OOP)
+- SQLite integration
+- Error handling & exceptions
+- Console-based applications
 
-🌱 Git & GitHub → workflows, repositories, version control
+---
+
+### 🌐 Web Development
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="25"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="25"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25"/>
+
+- HTML5 (semantic structure)
+- CSS3 (layout & styling)
+- JavaScript (basics & DOM manipulation)
+
+---
+
+### 🌱 Git & GitHub
+<img src="https://cdn.simpleicons.org/git/F05032" height="25"/>
+<img src="https://cdn.simpleicons.org/github/181717" height="25"/>
+
+- Version control with Git
+- GitHub repositories & workflows
+- Commit history & collaboration basics
+
+---
 
 ## 🧠 Soft Skills
 - Problem solving
@@ -15,26 +45,55 @@
 - Teamwork mindset
 - Continuous learning
 
+---
+
 ## 🎯 Career Goal
-I aim to work as a backend or full-stack developer, focusing on Python-based solutions and web applications.
+I aim to work as a **backend or full-stack developer**, focusing on **Python-based solutions**, databases, and web applications with clean and maintainable code.
+
+---
 
 ## 🚀 Projects
 
-### 🗂️ Inventory Management System (Python + SQLite)
-Console application with CRUD operations using SQLite database.
-- Add, update, delete, search products by ID
-- Database persistence
+### 🗂️ Inventory Management System
+<img src="https://cdn.simpleicons.org/python/3776AB" height="20"/>
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="20"/>
+
+**Console application built with Python and SQLite**
+
+- Full CRUD operations
+- Search products by ID
+- Persistent database storage
 - Menu-driven interface
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Martin Sosa Pacienzia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sosamartin522@gmail.com) 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Martin%20Sosa%20Pacienzia)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sosamartin522@gmail.com)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MartinSosa777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MartinSosa777&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSosa777&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 💻 Tech Stack
+
+### Languages & Markup
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="30"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="30"/>
+
+### Databases
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="30"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="30"/>
+
+### Tools
+<img src="https://cdn.simpleicons.org/git/F05032" height="30"/>
+<img src="https://cdn.simpleicons.org/github/181717" height="30"/>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MartinSosa777&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MartinSosa777&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSosa777&theme=tokyonight&layout=compact)
 
 ---
